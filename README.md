@@ -1,7 +1,7 @@
 # Let's take a walk
 
 -- *slide 0*
-
+http://www.flickr.com/photos/pshan427/1357602101 by pshutterbug
 
 Hello, my name is Thomas, I am currently in between jobs and contracts and I am going to tell you a story about our generation.
 
@@ -11,10 +11,14 @@ Why do I believe this ? Because I have crashed and I have looked into a bit of s
 
 ## I was a work addict
 -- *slide 1*
+http://www.flickr.com/photos/jillclardy/2566241384 by Jill Clardy
 
 I am the son of an IT professional who started to work with computers when they were eating cardboard and shitting paper. When his career ended the first iPad was about to be announced.
 
 As most of kids in a similar situation I grew up in front of computers : Apple Macintosh, random 286, 386 and .. pentium units.
+
+-- corgi2 slide --
+http://www.flickr.com/photos/evocateur/8526297616 by evocateur
 
 Through early exposure to internet, GNU/linux and php I grew intensely addicted to FOSS, its communities and projects.
 Around 2002, a student in an engineering school near Paris, I grew tired of C++ and Php when I heard about languages like Perl, Python, and Ruby. I tried several ones but Ruby ended up on top.
@@ -29,6 +33,9 @@ After some adventures, my hunger for code pushed me to come back to it. It felt 
 
 It felt great.
 
+-- corgi1 slide --
+http://www.flickr.com/photos/evocateur/8525231349 by evocateur
+
 To us, developers, logical problems are like crack. We are passionate about them and it literally fuels us. Writing software is one delivery method for this crack.
 
 From part time, I ended working full time for the client. I was working day after day to solve problems, build features. I was back in the game, back in the zone.
@@ -40,6 +47,9 @@ Then I started to work nights too. And week ends.
 "I needed to fix that bug"
 
 All at the same time.
+
+-- tango down slide --
+?
 
 I was sleeping less and less. My back fracked up at some point. I was highly irritable. I felt miserable.
 
@@ -56,6 +66,7 @@ This allowed me to look into the reasons why I crashed, what happened, and how I
 
 ## Finding the culprits
 -- *slide 2*
+http://www.flickr.com/photos/dynamosquito/4265771518/ by dynamosquito
 
 When I sat down and started to look back at what happened I quickly found two usual suspects :
 * passion : I am a passionate developer, I love coding, that passion pushed me in those long nights and days, forgetting to eat, sleep, move
@@ -63,8 +74,8 @@ When I sat down and started to look back at what happened I quickly found two us
 
 
 ## Passion
-
 -- *slide 3*
+http://www.flickr.com/photos/8525214@N06/3236824478 by antony chammond
 
 What is obvious to most people outside our little world is the fact that we, developers, especially in the Python, Ruby, (insert other alternate language) world, are passionate.
 
@@ -81,8 +92,8 @@ That passion did fuel that step, but it's probably culture that threw me under t
 
 
 ## Culture
-
 -- *slide 4*
+http://www.flickr.com/photos/40701092@N08/3839575697/ by Karl Raats
 
 Culture is indeed an important factor in my mess and in the mess of many of us. It can be culture from your family, culture from your company and culture from your country.
 
@@ -108,6 +119,7 @@ This mix of passion, education, startup culture, country culture is a terrible p
 ## Ruins
 
 -- *slide 5*
+http://www.flickr.com/photos/jixxer/4507232875 by Kristofer Williams
 
 At some point I decided I could not go on and wanted to do things in another way. Let's sum up what I ended with :
 
@@ -124,11 +136,15 @@ Still the precise mechanics or stepping stones of the crash were not clear. So I
 
 ## Science !!
 -- *slide 6*
+Walter Bishop / Fringe
 
 Some millenniums ago, our great-great-… grand parents were living in trees eating fruits and what ever could be found in the branches or immediate proximity of the trunks.
 Then the weather patterns changed and the equatorial regions grew drier. Trees started to get scarcer and our ancestors had to walk on the ground in between trees for more and more time.
 We were not the only ones evolving, soon predators would use the change in landscape to hunt. All this selected individuals who were able to move faster, over longer distances.
 This is when and why our ancestors became bipeds. Bipedal walk is simpler, and more energy efficient. You can walk further (up to 20km/day), see further too (important strategic advantage in plains).
+
+
+--  http://www.flickr.com/photos/smazurov/3850874803 - Stepan Mazurov
 
 Migrations, and scarcer food also pushed for more changes. As the population moved around the landscape changed and obstacles appeared (rivers, lakes, seas, mountains). Solving new problems was a daily thing probably for some time : better weaponry, better protection against weather, fire making, etc … It was probably stressful at some point but only in spikes : at hunting time, at night when a lion or wolf would be heard in the distance.
 
@@ -137,6 +153,8 @@ Migrations, and scarcer food also pushed for more changes. As the population mov
 * individuals who would be adventurous and tests things would have better chances to discover new ways of hunting, making fire etc .. they learned by trials and failures (like we do)
 * languages and symbols where developed to share and reuse those experiences and knowledge, sharing would improve chances of survival for the group, especially our offspring
 
+-- http://www.flickr.com/photos/black_friction/5628331511 by Nick Bramhall
+
 Yet, all this doesn't happen only at day time, night time is very important.
 
 As the night would stop our ancestors from walking or hunting they would stop by some sort of camp to rest.
@@ -144,9 +162,7 @@ During those 8 hours or so of blackness their bodies would use the absorbed food
 Meanwhile the brain would process what it had absorbed during the day : new landscapes, new sounds, new techniques. Memory was shuffled and filed around by clever reconnections of the neurones.
 This process has not changed either. It's still happening every time we sleep. MRI and brain imagery light up brightly at sleep time. Replaying scenarios and memories from the last hours and days to improve response time the next time similar things happen. This process could define the difference between ending alive or dead on a hunt.
 
-
 The change in the landscape forced our ancestors to become more active physically, and more clever. The *homo sapiens sapiens* body and brain were carved by physical activity through survival needs.
-
 
 To put it simply :
 * our body has evolved through daily physical activity (12 miles/ 20 km per day !)
@@ -157,6 +173,7 @@ To put it simply :
 ## Where to ?
 
 -- *slide 7*
+http://www.flickr.com/photos/helga/4598074787 by  Helga Weber
 
 So where do we go from here ?
 
@@ -173,12 +190,14 @@ So what did I do ?
 ## Shuffling
 
 -- *slide 8*
+http://www.flickr.com/photos/generated/6313491064 by jared
 
 The first thing I did was to have a nice break and change my habits : shuffling my cards around. Breaking the vicious circle and starting anew. I took some weeks of rest, I went to Berlin, and some nice 5 stars hotel, I started running ...
 
 ## Moving
 
 -- *slide 9*
+http://www.flickr.com/photos/yourdon/3049152556 by Ed yourdon
 
 Our body was designed by and around physical activity. So we need to move. There is not an activity better than another, a mix of diverse activities is probably better. Yet what is important is to move, a least a little bit, everyday.
 
@@ -192,6 +211,7 @@ I started walking daily, small walks first, then I started running. Hundreds of 
 ## Reading
 
 -- *slide 10*
+http://www.flickr.com/photos/chanc/2558304478 by Christopher Chan
 
 I started to read blogs, articles and books about diverse topics when I felt down or unable to focus. I though that, instead of just browsing 9gag or 4chan I should still put that time to good use by reading "real" stuff.
 
@@ -203,9 +223,11 @@ Now reading is part of my daily routine. HN, Medium and a load of articles grabb
 ## Writing
 
 -- *slide 11*
+http://www.flickr.com/photos/walker_ep/3086674683/ by e_walk
 
-When I traveled I read books from several travellers and photographers. In one of them there is saying :
-"how would I know what I think if I don't write it ?"
+(Petit traité sur l'immensité du monde, Sylvain Tesson, 978-2266167598)
+
+When I traveled I read books from several travellers and photographers. In one of them there is saying : Sylvain Tesson "how would I know what I think if I don't write it ?"
 
 And I find it quite true. Writing ideas down, forces you to order them and trigger more thinking and ordering around. Thoughts get clearer as if talking with another person responding back to you. That reformulation is crucial to problem solving in the end.
 
@@ -215,6 +237,7 @@ I started writing down shots of thoughts and longer articles. Publishing them or
 ## Relaxing
 
 -- *slide 12*
+http://www.flickr.com/photos/stuckincustoms/3376506512 by stuck in customs
 
 Having read and written my thoughts were cleared, I became less stressed and pre-occupied. I started to inserts walks and other musings in between work sessions to avoid becoming fixed on some problems.
 
@@ -228,20 +251,30 @@ Relaxing is important to avoid chronic stress. Chronic stress is a killer : it s
 ## Making it count
 
 -- *slide 13*
+http://www.flickr.com/photos/soldiersmediacenter/1063556470/ by The US Army
 
 Doing all those things are intended to keep your body and brain sane and working properly. Such a schedule will reduce the amount of hours you can sit down and work. GOOD.
 
 Because we need to take those walks, those breaks, those naps and nights of sleep. We need to work less. or rather we can't pretend to work more than a very little couple of hours.
 
-Don't panic : there is enough time to work properly. In fact, I have found that I have far enough time to do all the work needed everyday.
+So I just had to make those hours count :
+* I got better at organising my workload : I sliced tasks to very little items
+* I gave away tasks I don't like or I am not good at
+* I automated all the stupid repetitive tasks I did everyday.
 
-I just have to make those hours count. I needed to stop procrastinating, slaking around, repeating dumb tasks, doing things where I was not good at, …
-
-I got better at organising my workload : I sliced tasks to very little items, giving away tasks I don't like or I am not good at, I automated all the stupid repetitive tasks I did everyday.
+-- pomodoro
+http://www.flickr.com/photos/lucamascaro/4975166968 by lucamascaro
+http://www.pomodorotechnique.com
 
 I used Pomodoro technique : it gave me a finite set of time to work, then to relax, then to work again. I sliced down tasks so they could fit one or half a pomodoro. Then I defined a group of tasks to be done and grouped them. These were the basis for my topic branches or a specific set of tasks to perform.
 
-I also learn and accepted to suck at some things. Some people love to do some things that I hate : so I pass the ball to them if I can. If I can't then I try to take the proper time to learn a fix or get help. It's ok.
+-- sucking at things / hAlp
+http://www.flickr.com/photos/dirigentens/4663779089/ by Dirigentens
+
+I learned and accepted to suck at some things. Some people love to do some things that I hate : so I pass the ball to them if I can. If I can't then I try to take the proper time to learn a fix or get help. It's ok.
+
+-- automation
+http://www.flickr.com/photos/studiobeeldruis/2662703996/ by Arnoooo
 
 Automation is key. I spent some pomodoros defining what can be automated, what are the tools I could use or write to automate things.
 
@@ -250,6 +283,7 @@ I ended with a leaner way to work, and those few hours of work got awesome, rewa
 
 ## .
 -- *slide 14*
+http://www.flickr.com/photos/jonathankosread/6250327997/ by Jonathan Kos-Read
 
 According to some studies the brain cannot focus for more than 4 to 6 hours per day. Yes you heard right : working more than that and avoiding walks, sleep and relaxing time is plain suicidal on the medium and long run. Our bodies are not designed for that. PERIOD.
 
@@ -269,7 +303,7 @@ Here is what I did :
 * take time to see friends, family, people and talk about something else than work
 
 
-This is no recipe, these are not rules. This is just a story about how I decided to change my way of doing things and the reasons behind this change. If it can avoid one of you the trouble of crashing psychologically or physically it would be worth it.
+This is not a recipe, these are not rules. This is just a story about how I decided to change my way of doing things and the reasons behind this change. If it can avoid one of you the trouble of crashing psychologically or physically it would be worth it.
 
 Check your body, check your life : are they healthy ? Do you think you can go long like this ?
 
@@ -278,3 +312,39 @@ Check the science, check how others do. Does it make sense to you ? Would it ben
 
 
 ## Thank you !
+
+http://www.flickr.com/photos/rickharris/43143523 by Rick Harris
+
+
+
+## Photos
+
+http://www.flickr.com/photos/pshan427/1357602101 by pshutterbug
+http://www.flickr.com/photos/jillclardy/2566241384 by Jill Clardy
+http://www.flickr.com/photos/evocateur/8526297616 by evocateur
+http://www.flickr.com/photos/evocateur/8525231349 by evocateur
+http://www.flickr.com/photos/dynamosquito/4265771518/ by dynamosquito
+http://www.flickr.com/photos/8525214@N06/3236824478 by antony chammond
+http://www.flickr.com/photos/40701092@N08/3839575697/ by Karl Raats
+http://www.flickr.com/photos/jixxer/4507232875 by Kristofer Williams
+http://www.flickr.com/photos/smazurov/3850874803 - Stepan Mazurov
+http://www.flickr.com/photos/black_friction/5628331511 by Nick Bramhall
+http://www.flickr.com/photos/helga/4598074787 by  Helga Weber
+http://www.flickr.com/photos/generated/6313491064 by jared
+http://www.flickr.com/photos/yourdon/3049152556 by Ed yourdon
+http://www.flickr.com/photos/chanc/2558304478 by Christopher Chan
+http://www.flickr.com/photos/walker_ep/3086674683/ by e_walk
+http://www.flickr.com/photos/stuckincustoms/3376506512 by stuck in customs
+http://www.flickr.com/photos/soldiersmediacenter/1063556470/ by The US Army
+http://www.flickr.com/photos/lucamascaro/4975166968 by lucamascaro
+http://www.flickr.com/photos/dirigentens/4663779089/ by Dirigentens
+http://www.flickr.com/photos/studiobeeldruis/2662703996/ by Arnoooo
+http://www.flickr.com/photos/jonathankosread/6250327997/ by Jonathan Kos-Read
+http://www.flickr.com/photos/rickharris/43143523 by Rick Harris
+
+## Links
+http://www.pomodorotechnique.com
+
+## Books
+* Brain rules , John Medina
+* Petit traité sur l'immensité du monde, Sylvain Tesson (not translated)
