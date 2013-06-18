@@ -134,7 +134,7 @@ http://www.flickr.com/photos/helga/4598074787 by  Helga Weber
 
 So where did I go from there ?
 
-Comforted in theses changes I decided to push on and articulate a new schedule upon my findings. I could hope to find a balanced way to live that would allow my passion to stay inside safe boundaries, my body healthy and my brain fully functional.
+Comforted in these changes I decided to push on and articulate a new schedule upon my findings. I could hope to find a balanced way to live that would allow my passion to stay inside safe boundaries, my body healthy and my brain fully functional.
 
 I needed to fit proper sleep, proper physical activity, proper food, proper relax time and proper work time. Somehow along the past months I had come up with something including all that. Just like Mr Jourdain I was already doing prose.
 
@@ -144,7 +144,7 @@ I needed to fit proper sleep, proper physical activity, proper food, proper rela
 -- *slide 9*
 http://www.flickr.com/photos/yourdon/3049152556 by Ed yourdon
 
-I kept running and seeing it was getting easier I pushed myself and from 2 or 3 km a week I doubled that. Now I am able to do 5kms twice per week.
+I kept running and seeing it was getting easier I pushed myself and from 2 or 3 km a week I doubled that. Now I am able to do 5km twice per week.
 
 Each run is now a boost for the rest of the week, I feel not tired but energised after each of them.
 
@@ -213,9 +213,13 @@ No more deploying by hand, no more quality check of the code by hand. I use sema
 -- *slide 14*
 http://www.flickr.com/photos/jonathankosread/6250327997/ by Jonathan Kos-Read
 
+So, starting from a crash and tons of questions about why and how it happened I managed to get out of the dark pit by changing slowly my way to live. Through reading and research I understood why those changes (walking, running, taking breaks, eating proper food, having proper sleep) worked.
+
 I ended up with a leaner way to work, and those few hours of work got awesome, rewarding hours.
 Now, I am not spending 10 hours a day working without a plan, on a rush, adding bugs instead of features, eating junk food
 I can plan head and then power walk through a set of features and steps for few hours every day. In the free hours I take care of my food, body, friends and family.
+
+But more importantly I see that these changes helped me to find a balance in life, to find a better mix. And after all this is all what is about.
 
 This is not a recipe, these are not rules. This is just a story about how I decided to change my way of doing things and the reasons behind this change. If it can avoid one of you the trouble of crashing psychologically or physically it would be worth it.
 
